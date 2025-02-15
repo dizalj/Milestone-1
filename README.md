@@ -1,6 +1,6 @@
 # Milestone-1
 
-You can find the detailed project report [here](https://github.com/dizalj/Milestone-1/blob/main/Milestone%201_Khadija%20Salih%20Alj.pdf). 
+The detailed Milestone report [here](https://github.com/dizalj/Milestone-1/blob/main/Milestone%201_Khadija%20Salih%20Alj.pdf). 
 
 ## References
 
