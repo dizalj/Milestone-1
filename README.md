@@ -1,6 +1,7 @@
 # Milestone-1
 
-The detailed Milestone report [here](https://github.com/dizalj/Milestone-1/blob/main/Milestone%201_Khadija%20Salih%20Alj.pdf). 
+This project develops an LLM-powered ingredient substitution system to simplify cooking by providing context-aware, ranked substitutes for missing ingredients. Using a fine-tuned large language model (LLaMA 3.2 1B Instruct), the system helps users adapt recipes based on dietary needs, available ingredients, and culinary preferences -reducing food waste while saving time. Designed for busy professionals, health-conscious individuals, and cultural enthusiasts, Laddaty merges AI precision with human oversight to create a seamless cooking experience. Success is measured through key metrics, including Hit@k (substitution accuracy), user satisfaction, and customer retention rate (CRR).
+For more details, please refer to the Milestone report [here](https://github.com/dizalj/Milestone-1/blob/main/Milestone%201.pdf). 
 
 ## References
 
